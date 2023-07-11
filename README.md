@@ -21,3 +21,5 @@ This project uses Python for the backend and frontend.
 3. Navigate to where you have dashbeam.py located
 4. type "streamlit run dashbeam.py"
    *At this point the browser should open with the dashboard open*
+
+Support for the original outgauge.lua coming soon
